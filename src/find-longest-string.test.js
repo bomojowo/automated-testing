@@ -11,4 +11,3 @@ test("findLongestString returns the earlier string in cases of joint longest str
   expect(findLongestString(["how", "are", "you", "Mat"])).toBe("how");
   expect(findLongestString(["grape", "melon", "berry"])).toBe("grape");
 });
-
